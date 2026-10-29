@@ -117,3 +117,5 @@ C4Component
 - [Clase 5 — Del script al programa: Java procedural y sus dolores](../../Apuntes/Clase05-Guia.md)
 - [Clase 6 — Abstracción y encapsulamiento: el mismo programa, con dueños](../../Apuntes/Clase06-Guia.md)
 - [Clase 7 — Colecciones y composición: `ArrayList`, `toString`, sobrecarga y Biblioteca](../../Apuntes/Clase07-Guia.md) · bugs de repaso en [`clase07/`](clase07/)
+- [Clase 8 — Herencia: el cine y la familia de reglas](../../Apuntes/Clase08-Guia.md)
+- [Clase 9 — Interfaces y polimorfismo: pedidos, pagos y varias reglas a la vez](../../Apuntes/Clase09-Guia.md)

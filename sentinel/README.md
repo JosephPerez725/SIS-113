@@ -86,3 +86,5 @@ java -cp oop/out Main 80 < ../phase1-bash/samples/muestra-rota.txt
 - [Clase 5 — Java procedural y sus dolores](../Apuntes/Clase05-Guia.md)
 - [Clase 6 — Abstracción y encapsulamiento](../Apuntes/Clase06-Guia.md)
 - [Clase 7 — Colecciones y composición](../Apuntes/Clase07-Guia.md)
+- [Clase 8 — Herencia](../Apuntes/Clase08-Guia.md)
+- [Clase 9 — Interfaces y polimorfismo](../Apuntes/Clase09-Guia.md)

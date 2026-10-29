@@ -67,7 +67,7 @@ procs.remove(0);                          // quita el primero; los demás se cor
 for (String p : procs) { System.out.println(p); }
 ```
 
-Tres ideas que hay que decir en voz alta:
+Tres ideas:
 
 - **`<String>` es el tipo de lo que guarda.** Una `List<Snapshot>` solo acepta `Snapshot`; el compilador rechaza lo demás.
 - **A la izquierda `List`, a la derecha `ArrayList`.** `List` es el contrato (qué se puede hacer); `ArrayList` es una implementación (cómo). Es la misma idea que el contrato JSON entre Bash y Java, ahora entre clases.
